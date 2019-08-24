@@ -3,7 +3,7 @@ package sender
 import (
     "errors"
     "github.com/labstack/echo"
-    "github.com/sdvdxl/dinghook"
+    "github.com/yellia1989/dinghook"
     "log"
     "net/http"
 )
